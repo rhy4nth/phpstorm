@@ -1,7 +1,9 @@
 <?php
 $age=10;
-echo ($age <= 18)? "Volwassen": "kind";
-
-echo $age ??"geen leeftijd beschikbaar";
+if ($age>=18){
+    echo "Je bent volwassen";
+}else{
+    echo "Je bent niet volwassen";
+}
 
 
