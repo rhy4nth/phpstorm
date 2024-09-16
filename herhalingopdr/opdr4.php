@@ -1,9 +1,9 @@
 <?php
 $a=10;
 $b=3.14;
-$c="PHP"
+$c="PHP";
 
-$a="tien"
+$a="tien";
 $b=3;
 $c= false;
 

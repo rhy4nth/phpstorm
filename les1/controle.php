@@ -22,3 +22,4 @@ echo ($age <= 18)? "Volwassen": "kind";
 }
 
 echo $age ??"Geen leeftijd beschikbaar";
+?>

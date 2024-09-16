@@ -23,3 +23,4 @@ $float = 3.14;
 $bool = true;
 $bool = 0;
 
+?>
