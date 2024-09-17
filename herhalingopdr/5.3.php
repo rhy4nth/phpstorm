@@ -1,7 +1,8 @@
 <?php
-$guessedNumber = 0;
+$i = 0;
 
-do {$guessedNumber = rand(1, 10);
-    echo "Geraden: " . $guessedNumber . "\n";
-} while ($guessedNumber != 5);
+do {$i = rand(1, 10);
+    echo "geraden: " . $i . "\n";
+} while ($i != 5);
 
+?>

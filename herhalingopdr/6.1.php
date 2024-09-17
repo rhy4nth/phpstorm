@@ -7,6 +7,6 @@ for ($i = 0; $i < count($numbers); $i++) {
     $multipliedNumber = $originalNumber * 2;
 
     echo "Origineel getal: " . $originalNumber . "\n";
-    echo "Vermenigvuldigd met 2: " . $multipliedNumber . "\n\n";
+    echo "Vermenigvuldigd met 2: " . $multipliedNumber . "\n";
 }
 ?>

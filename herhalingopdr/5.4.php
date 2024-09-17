@@ -6,6 +6,6 @@ $countries = [
 ];
 
 foreach ($countries as $country => $capital) {
-    echo "De hoofdstad van " . $country . " is " . $capital . "\n";
+    echo "De hoofdstad van " . $country . " is " . $capital ;
 }
 

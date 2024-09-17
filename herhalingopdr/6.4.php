@@ -7,7 +7,7 @@ foreach ($grades as $grade) {
     if ($grade >= 5.5) {
         echo "voldoende<br><br>";
     } else {
-        echo "onvoldoende<br><br>";
+        echo "onvoldoende";
     }
 }
 ?>
