@@ -1,5 +1,5 @@
 <?php
-<?php
+
 session_start();
 ?>
 
@@ -28,6 +28,6 @@ session_start();
     </form>
     <?php endif; ?>
 
-    <p><a href="taalinstellen.php">Ga terug om je taal aan te passen</a></p>
+    <p><a href="7.3">Ga terug om je taal aan te passen</a></p>
 </body>
 </html>
